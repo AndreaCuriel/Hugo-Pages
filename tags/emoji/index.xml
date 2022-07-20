@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>emoji on My New Hugo Site</title>
+    <title>emoji on PaperMod</title>
     <link>https://andreacuriel.github.io/Hugo_GitHub_Git/tags/emoji/</link>
-    <description>Recent content in emoji on My New Hugo Site</description>
+    <description>Recent content in emoji on PaperMod</description>
+    <image>
+      <url>https://andreacuriel.github.io/Hugo_GitHub_Git/papermod-cover.png</url>
+      <link>https://andreacuriel.github.io/Hugo_GitHub_Git/papermod-cover.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://andreacuriel.github.io/Hugo_GitHub_Git/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emoji Support</title>
@@ -13,7 +16,7 @@
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://andreacuriel.github.io/Hugo_GitHub_Git/posts/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <description>Guide to emoji usage in Hugo</description>
     </item>
     
   </channel>
